@@ -5,6 +5,7 @@ public class HelloEgit {
 		System.out.println("Hello Egit!!!");
 		System.out.println("update one!!!");
 		System.out.println("克隆成功！！！");
+		System.out.println("666");
 	}
 
 }
